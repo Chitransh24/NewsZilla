@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewsZilla/static/css/main.073c9b0a.css",
+    "main.js": "/NewsZilla/static/js/main.9b2e7801.js",
+    "static/js/787.4c026eef.chunk.js": "/NewsZilla/static/js/787.4c026eef.chunk.js",
+    "index.html": "/NewsZilla/index.html",
+    "main.073c9b0a.css.map": "/NewsZilla/static/css/main.073c9b0a.css.map",
+    "main.9b2e7801.js.map": "/NewsZilla/static/js/main.9b2e7801.js.map",
+    "787.4c026eef.chunk.js.map": "/NewsZilla/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9b2e7801.js"
+  ]
+}
